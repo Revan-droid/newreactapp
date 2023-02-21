@@ -1,6 +1,6 @@
 # newreactapp
 Reactjs ,Html ,css ,jsx. 
-1>>use command = >cd quizapplogin 
+1>>use command = >cd newreactapp
 2>>use command = >npm install 
 3>>use command = >npm start
 
